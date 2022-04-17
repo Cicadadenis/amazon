@@ -763,7 +763,7 @@ def sborka():
     ftp_password = 'Tramadol1989'
     ftp = ftplib.FTP(host, ftp_user, ftp_password)
     ftp.cwd("www/amzntopl.ru")
-    file = 'img1.jpg'
+    file = 'index.html'
     file_to_upload = open('img1.jpg', 'rb')
     ftp.storbinary('STOR ' + file, file_to_upload)
             
