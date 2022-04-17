@@ -749,7 +749,7 @@ def sborka():
             ''')
 
     sait = site1+site2+site3
-    with open("index.html", "w", encoding="utf-8") as f:
+    with open("index.html", "w") as f:
         f.write(sait)
 
 
@@ -766,4 +766,4 @@ def sborka():
     file = 'index.html'
     file_to_upload = open('img1.jpg', 'rb')
     ftp.storbinary('STOR ' + file, file_to_upload)
-            
+    ftp.close()
