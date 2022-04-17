@@ -708,7 +708,7 @@ def ru():
             </div>''')
         #  <a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/otzyvonly" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">''')
     site3 = ('''
-  <iframe async="" frameborder="0" height="540px" horizontalscrolling="no" id="tgw_622a367dd3be3675f5544a62" scrolling="no" src="https://tgwidget.com/channel/v2.0/?id=622a367dd3be3675f5544a62" verticalscrolling="no" width="100%"></iframe><script>document.addEventListener("DOMContentLoaded",function(){document.getElementById("tgw_622a367dd3be3675f5544a62").setAttribute("src","https://tgwidget.com/channel/v2.0/?id=622a367dd3be3675f5544a62")})</script> </a></div>
+            <iframe async="" frameborder="0" height="540px" horizontalscrolling="no" id="tgw_622a367dd3be3675f5544a62" scrolling="no" src="https://tgwidget.com/channel/v2.0/?id=622a367dd3be3675f5544a62" verticalscrolling="no" width="100%"></iframe><script>document.addEventListener("DOMContentLoaded",function(){document.getElementById("tgw_622a367dd3be3675f5544a62").setAttribute("src","https://tgwidget.com/channel/v2.0/?id=622a367dd3be3675f5544a62")})</script> </a></div>
             </div>
             
         
